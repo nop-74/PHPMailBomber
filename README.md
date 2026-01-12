@@ -1,15 +1,15 @@
-# php-mail-bomber
+# php-почтовый бомбардировщик
 
-An easy to use mail bomber.
+Простой в использовании почтовый бомбардировщик.
 
-with the following pro's:
+со следующими преимуществами:
 
-- As many mails a desired
-- emails and names to choose yourself
-- simple to use
-- Penetrates spamfilters
+- Количество писем по желанию
+- адреса и имена вы можете выбрать сами
+- прост в использовании
+- Проникает через спам-фильтры
 
 
-Everything you should know to use this mail bomber is shown in the code
+Все, что вам нужно знать, чтобы использовать этот почтовый бомбардировщик, показано в коде
 
-Have fun with it! :)
+Получайте удовольствие от этого! :)
